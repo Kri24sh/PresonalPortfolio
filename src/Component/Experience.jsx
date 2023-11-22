@@ -34,7 +34,7 @@ const Experience = () => {
       id: 4,
       src: reactImage,
       title: "React",
-      style: "shadow-blue-600",
+      style: "shadow-green-600",
     },
     {
       id: 5,
