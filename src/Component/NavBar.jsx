@@ -16,7 +16,7 @@ const NavBar = () => {
 
 return (
     <>
-    <nav className=' flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed'>
+    <nav className=' z-30 flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed'>
 
     <h1 className=' h-full flex flex-col justify-center text-7xl font-great ml-2' >krish</h1>
 
