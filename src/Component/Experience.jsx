@@ -5,6 +5,10 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import nodeejs from '../assets/node.png'
+
+
+
 
 const Experience = () => {
   const techs = [
@@ -46,8 +50,8 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: github,
-      title: "GitHub",
+      src: nodeejs,
+      title: "Node.js",
       style: "shadow-gray-400",
     },
     {
