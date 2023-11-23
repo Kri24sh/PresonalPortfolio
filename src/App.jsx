@@ -10,6 +10,7 @@ function App() {
 
   return (
     <>
+    <div>
       <NavBar/>
       <Home/>
       <About/>
@@ -17,6 +18,7 @@ function App() {
       <Experience/>
       <Contact/>
       <SocialLinks/>
+    </div>
     </>
   )
 }
