@@ -34,7 +34,7 @@ const Experience = () => {
       id: 4,
       src: reactImage,
       title: "React",
-      style: "shadow-green-600",
+      style: "shadow-blue-600",
     },
     {
       id: 5,
@@ -52,13 +52,14 @@ const Experience = () => {
       id: 7,
       src: nodeejs,
       title: "Node.js",
-      style: "shadow-gray-400",
+      style: "shadow-green-500",
     },
     {
       id: 8,
-      src: github,
-      title: "GitHub",
-      style: "shadow-gray-400",
+      src: "https://pluspng.com/img-png/logo-mongodb-png-mongodb-logo-png-400.png",
+      title: "MongoDB",
+      style: "shadow-green-400 ",
+      impstyle:"h-18 w-24"
     },
 
 
@@ -78,12 +79,12 @@ const Experience = () => {
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center  py-0 md:py-8 px-12 sm:px-0">
-          {techs.map(({ id, src, title, style }) => (
+          {techs.map(({ id, src, title, style ,impstyle }) => (
             <div
               key={id}
-              className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}
+              className={`shadow-md hover:scale-105 flex flex-col justify-center duration-500 py-2 rounded-lg ${style}`}
             >
-              <img src={src} alt="" className="w-20 mx-auto" />
+              <img src={src} alt="" className={`w-20  mx-auto ${impstyle} `} />
               <p className="mt-4">{title}</p>
             </div>
           ))}

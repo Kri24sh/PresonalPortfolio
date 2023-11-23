@@ -14,24 +14,14 @@ const About = () => {
         </div>
 
         <p className="text-xl mt:10 md:mt-16">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+        Hello there! I'm Krish Vaswani, a passionate second-year BCA student with a keen interest in web development. I find joy in crafting digital experiences that seamlessly blend creativity and functionality. Currently honing my skills in the ever-evolving realm of web technologies, I aspire to create intuitive and visually appealing websites that leave a lasting impression.
         </p>
 
         <br />
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        My journey into the world of web development began with a curiosity to understand the intricate dance between code and design. Over the past years, I've delved into languages like HTML, CSS, and JavaScript, turning concepts into captivating web applications. The challenges of this dynamic field fuel my desire to learn and grow continuously. Each line of code I write is a step forward in my mission to create impactful and user-friendly digital solutions.
         </p>
       </div>
     </div>

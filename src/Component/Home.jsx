@@ -16,7 +16,7 @@ return (
                 <h2 className='text-3xl sm:text-4xl md:text-7xl font-bold text-white'>I'm a web developer</h2>
 
                 <p className='text-gray-500 py-4 max-w-md'>
-                    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Vero dolorum corporis laboriosam tenetur recusandae. Dolorum officia mollitia dignissimos nobis, quidem vel vitae nam repellat porro quibusdam veniam? Reiciendis libero, dolor deleniti nulla hic itaque.
+                While my heart belongs to coding, I am more than lines of code. I am a creative thinker, problem solver, and a firm believer in the power of collaboration. In addition to coding, I love exploring new technologies, staying updated with industry trends, and occasionally indulging in creative pursuits. Join me on this exciting journey as I strive to make a mark in the digital landscape.
                 </p>
                 <div>
                     <Link to='Projects' smooth duration={700} className=' group flex gap-2 justify-center items-center px-6 py-3 hover:scale-105 duration-150 bg-gradient-to-r from-cyan-500 cursor-pointer to-blue-500 h-11 w-fit rounded-xl'>
