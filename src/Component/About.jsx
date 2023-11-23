@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt:10 md:mt-16">
+        <p className="text-xl mt:20g md:mt-16">
         Hello there! I'm Krish Vaswani, a passionate second-year BCA student with a keen interest in web development. I find joy in crafting digital experiences that seamlessly blend creativity and functionality. Currently honing my skills in the ever-evolving realm of web technologies, I aspire to create intuitive and visually appealing websites that leave a lasting impression.
         </p>
 
